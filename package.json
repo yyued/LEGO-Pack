@@ -1,0 +1,18 @@
+{
+  "name": "legopack",
+  "version": "1.0.0",
+  "description": "LEGO Pack Helps you pack your file as zip and generate zip md5.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "legopack": "index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "md5": "^2.1.0",
+    "shelljs": "^0.7.3"
+  }
+}
